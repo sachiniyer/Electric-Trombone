@@ -1,5 +1,5 @@
 # Electronic Trombone
-This is an attempt to make an electronic trombone. Currently, I am on the third iteration. It is very messy right now, I will clean it up when I finish the final interation.
+This is an attempt to make an electronic trombone. Currently, I am on the fourth iteration. I am not sure when I will create a physical model (hopeully sometime in august if I can make some time in the NYU Makerspace). I haven't done an update in about a year, but I hoping to get something working finally.
 
 ## Code
 It is very easy, and uses buttons to change partials. Depending on the iteration, either a rotational potentiometer or time of flight sensor is used for distance. A pressure sensor captures breath changes.
